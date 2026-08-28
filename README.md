@@ -4,7 +4,7 @@
 
 A SQL-only analytics project on 45,584 real delivery records across 22 Indian cities. Raw CSV → normalised star schema → 20 business questions → a costed, ranked recommendation — all in PostgreSQL.
 
-
+- **Interactive Dashboard:** [Explore Zomato Delivery Operations Analytics](https://sarveshhsharma.github.io/Zomato-Delivery-Operations-Analytics/)
 
 ## The problem
 
